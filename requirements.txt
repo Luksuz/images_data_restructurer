@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+scipy
+scikit-learn
+#zipfile
+requests
+pillow
